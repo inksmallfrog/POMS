@@ -1,0 +1,120 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1502504152284'); /* IE9*/
+  src: url('iconfont.eot?t=1502504152284#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1502504152284') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1502504152284') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1502504152284#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-shoppingCart:before { content: "\e60a";font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   }
+
+.el-icon-user:before { content: "\e6a0";font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-config:before { content: "\f00c7";font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  position: relative;
+  top: -2.2px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-notify:before { content: "\e607";font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-staring:before { content: "\e600";font-family:"iconfont" !important;
+  font-size:1.5rem;
+  color: #58B7FF;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-password-hide:before { content: "\e679";font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-star:before { content: "\e60b";font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-password-show:before { content: "\e624";font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.el-icon-shoppingCarting:before { content: "\e601";font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #58B7FF; }
+
+.el-icon-dict:before { content: "\e6bd"; font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.el-icon-employee:before { content: "\e60d"; font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.el-icon-quit:before { content: "\e760";  font-family:"iconfont" !important;
+  font-size:22px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.el-icon-chart:before { content: "\e60c";  font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.el-icon-paper:before { content: "\e64f";  font-family:"iconfont" !important;
+  font-size:1.5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.el-icon-allowed:before { content: "\e6ba"; font-family:"iconfont" !important;
+  font-size:1rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #13CE66;
+}
+
+.el-icon-disallowed:before { content: "\e7b1"; font-family:"iconfont" !important;
+  font-size:1rem;
+  font-style:normal;
+  color: #FF4949;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
